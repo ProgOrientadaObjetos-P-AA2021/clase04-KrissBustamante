@@ -13,6 +13,8 @@ public class Ejecutor {
     public static void main(String[] args) {
         
         /*Crear un objeto y presentar los datos*/
+        Hospital h1 = new Hospital();
         
+        System.out.printf("%\n" , h1);
     }
 }
